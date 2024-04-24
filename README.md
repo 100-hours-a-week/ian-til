@@ -3,4 +3,4 @@
 
 ### [4월 넷째주, 3주차] : html, css
 
-24.04.24 2주차 3번과제 QA 진행 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+24.04.24 2주차 3번과제 QA 진행 ([link](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/Apr/2024-04-24.md))
