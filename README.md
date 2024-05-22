@@ -3,6 +3,8 @@
 
 ### [5월 셋째주, 6주차] : Java
 
+__24.05.21 6주차 Java__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-21.md)
+
 __24.05.20 6주차 Java__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-20.md)
 
 __24.05.19 6주차 Java__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-19.md)
