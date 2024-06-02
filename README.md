@@ -53,12 +53,17 @@ __[😃 26일] Java__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/b
 __[😃 27일] Java__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-27.md)  
 __[😃 28일] Java__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-28.md)  
 __[🧪 29일] MySQL연동 및 TIL 리팩토링__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-29.md)  
-
+__[🪦 30일] 커뮤니티 프론트 서버 css 추가__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/May/2024-05-30.md)  
 
 </details>  
 
 
+<details>
+<summary> ☀️ 6월 </summary> 
 
+__[⚰️ 2일] 커뮤니티 프론트 서버 css 추가__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/June/2024-06-02.md)  
+
+</details>
 
 
 <br>
