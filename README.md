@@ -61,7 +61,8 @@ __[🪦 30일] 커뮤니티 프론트 서버 css 추가__ [🔗](https://github.
 <details>
 <summary> ☀️ 6월 </summary> 
 
-__[⚰️ 2일] 커뮤니티 프론트 서버 레아아웃 수정 및 백엔드 리팩토링__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/June/2024-06-02.md)  
+__[⚰️ 2일] 커뮤니티 프론트 서버 레아아웃 수정 및 백엔드 리팩토링__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/June/2024-06-02.md)   
+__[🎉 7일] 네트워킹 파티 & querydsl__ [🔗](https://github.com/100-hours-a-week/ian.jeong-til/blob/main/June/2024-06-07.md)  
 
 </details>
 
